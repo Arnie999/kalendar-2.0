@@ -91,103 +91,126 @@ export function ShiftImportDialog({ isOpen, onClose, onImport }: ShiftImportDial
   if (!isOpen) return null;
 
   return (
-    <dialog open>
-      <div>
-        <header>
-          <h2>Import Shift Data</h2>
-          <button onClick={handleClose}>✕</button>
+    <div className="fixed inset-0 z-50 flex items-center justify-center">
+      {/* Backdrop */}
+      <div className="fixed inset-0 bg-black/50" onClick={handleClose} />
+      
+      {/* Dialog */}
+      <div className="relative z-50 w-full max-w-3xl max-h-[90vh] overflow-y-auto bg-background rounded-lg shadow-lg m-4">
+        <header className="sticky top-0 bg-background border-b border-border px-6 py-4 flex items-center justify-between">
+          <h2 className="text-heading">Import Shift Data</h2>
+          <button 
+            onClick={handleClose}
+            className="text-muted-foreground hover:text-foreground transition-colors"
+          >
+            ✕
+          </button>
         </header>
 
-        {!previewData && (
-          <div>
-            <div {...getRootProps()}>
+        <div className="p-6">
+          {!previewData && (
+            <div {...getRootProps()} className="cursor-pointer">
               <input {...getInputProps()} />
-              <div>
+              <div className={`border-2 border-dashed rounded-lg p-12 text-center transition-colors ${
+                isDragActive ? 'border-primary bg-primary/5' : 'border-border hover:border-primary/50'
+              }`}>
                 {isProcessing ? (
-                  <p>Processing file...</p>
+                  <p className="text-body">Processing file...</p>
                 ) : isDragActive ? (
-                  <p>Drop the file here</p>
+                  <p className="text-body">Drop the file here</p>
                 ) : (
-                  <div>
-                    <p>Drag and drop a shift file here, or click to select</p>
-                    <p>Supported formats: .xlsx, .xls, .csv</p>
+                  <div className="space-y-2">
+                    <p className="text-body">Drag and drop a shift file here, or click to select</p>
+                    <p className="text-sm text-muted-foreground">Supported formats: .xlsx, .xls, .csv</p>
                   </div>
                 )}
               </div>
             </div>
-          </div>
-        )}
+          )}
 
-        {previewData && (
-          <div>
-            <h3>Import Preview</h3>
-            
-            {previewData.errors.length > 0 && (
-              <div>
-                <h4>Errors:</h4>
-                <ul>
-                  {previewData.errors.map((error, index) => (
-                    <li key={index}>{error}</li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-            {previewData.unknownEmployees.length > 0 && (
-              <div>
-                <h4>Unknown Employees:</h4>
-                <ul>
-                  {previewData.unknownEmployees.map((employee, index) => (
-                    <li key={index}>{employee}</li>
-                  ))}
-                </ul>
-                <p>These employees will be created automatically.</p>
-              </div>
-            )}
-
-            {previewData.data.length > 0 && (
-              <div>
-                <h4>Data Preview ({previewData.data.length} entries):</h4>
-                <table>
-                  <thead>
-                    <tr>
-                      <th>Date</th>
-                      <th>Employee</th>
-                      <th>Hours</th>
-                      <th>Tips (CZK)</th>
-                      <th>Bonus (CZK)</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {previewData.data.slice(0, 10).map((item, index) => (
-                      <tr key={index}>
-                        <td>{item.date}</td>
-                        <td>{item.employee}</td>
-                        <td>{item.hours}</td>
-                        <td>{item.tips}</td>
-                        <td>{item.bonus}</td>
-                      </tr>
+          {previewData && (
+            <div className="space-y-6">
+              <h3 className="text-lg font-medium">Import Preview</h3>
+              
+              {previewData.errors.length > 0 && (
+                <div className="bg-destructive/10 border border-destructive/20 rounded-lg p-4">
+                  <h4 className="font-medium text-destructive mb-2">Errors:</h4>
+                  <ul className="list-disc list-inside space-y-1">
+                    {previewData.errors.map((error, index) => (
+                      <li key={index} className="text-sm text-destructive">{error}</li>
                     ))}
-                  </tbody>
-                </table>
-                {previewData.data.length > 10 && (
-                  <p>... and {previewData.data.length - 10} more entries</p>
-                )}
-              </div>
-            )}
+                  </ul>
+                </div>
+              )}
 
-            <div>
-              <button onClick={handleClose}>Cancel</button>
-              <button 
-                onClick={handleImport}
-                disabled={!previewData.isValid || previewData.data.length === 0}
-              >
-                Import {previewData.data.length} Entries
-              </button>
+              {previewData.unknownEmployees.length > 0 && (
+                <div className="bg-accent/10 border border-accent/20 rounded-lg p-4">
+                  <h4 className="font-medium text-accent-foreground mb-2">Unknown Employees:</h4>
+                  <ul className="list-disc list-inside space-y-1">
+                    {previewData.unknownEmployees.map((employee, index) => (
+                      <li key={index} className="text-sm">{employee}</li>
+                    ))}
+                  </ul>
+                  <p className="text-sm text-muted-foreground mt-2">These employees will be created automatically.</p>
+                </div>
+              )}
+
+              {previewData.data.length > 0 && (
+                <div>
+                  <h4 className="font-medium mb-3">Data Preview ({previewData.data.length} entries):</h4>
+                  <div className="overflow-x-auto rounded-lg border border-border">
+                    <table className="w-full">
+                      <thead className="bg-muted/50">
+                        <tr>
+                          <th className="px-4 py-3 text-left text-sm font-medium">Date</th>
+                          <th className="px-4 py-3 text-left text-sm font-medium">Employee</th>
+                          <th className="px-4 py-3 text-left text-sm font-medium">Hours</th>
+                          <th className="px-4 py-3 text-left text-sm font-medium">Tips (CZK)</th>
+                          <th className="px-4 py-3 text-left text-sm font-medium">Bonus (CZK)</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {previewData.data.slice(0, 10).map((item, index) => (
+                          <tr key={index} className="border-b border-border">
+                            <td className="px-4 py-3 text-sm">{item.date}</td>
+                            <td className="px-4 py-3 text-sm">{item.employee}</td>
+                            <td className="px-4 py-3 text-sm">{item.hours}</td>
+                            <td className="px-4 py-3 text-sm">{item.tips}</td>
+                            <td className="px-4 py-3 text-sm">{item.bonus}</td>
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                  {previewData.data.length > 10 && (
+                    <p className="text-sm text-muted-foreground mt-2">... and {previewData.data.length - 10} more entries</p>
+                  )}
+                </div>
+              )}
+
+              <div className="flex justify-end gap-3 pt-4 border-t border-border">
+                <button 
+                  onClick={handleClose}
+                  className="btn-secondary"
+                >
+                  Cancel
+                </button>
+                <button 
+                  onClick={handleImport}
+                  disabled={!previewData.isValid || previewData.data.length === 0}
+                  className={`btn-primary ${
+                    (!previewData.isValid || previewData.data.length === 0) 
+                      ? 'opacity-50 cursor-not-allowed' 
+                      : ''
+                  }`}
+                >
+                  Import {previewData.data.length} Entries
+                </button>
+              </div>
             </div>
-          </div>
-        )}
+          )}
+        </div>
       </div>
-    </dialog>
+    </div>
   );
 } 

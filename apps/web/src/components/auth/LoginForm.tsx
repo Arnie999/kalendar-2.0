@@ -37,69 +37,93 @@ export function LoginForm({ onSwitchToRegister }: LoginFormProps) {
   };
 
   return (
-    <div>
-      <h2>Přihlášení</h2>
+    <div className="w-full max-w-md mx-auto">
+      <h2 className="text-2xl font-semibold text-center mb-8">Přihlášení</h2>
       
       {error && (
-        <div>
-          <p>Chyba: {error}</p>
+        <div className="mb-6 p-4 bg-destructive/10 border border-destructive/20 rounded-lg">
+          <p className="text-sm text-destructive">Chyba: {error}</p>
         </div>
       )}
 
-      <form onSubmit={handleEmailLogin}>
+      <form onSubmit={handleEmailLogin} className="space-y-6">
         <div>
-          <label>
-            Email:
-            <input
-              type="email"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              required
-              disabled={loading}
-            />
+          <label className="block text-sm font-medium mb-2">
+            Email
           </label>
+          <input
+            type="email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            required
+            disabled={loading}
+            className="w-full px-4 py-2 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-ring disabled:opacity-50"
+            placeholder="vas@email.cz"
+          />
         </div>
 
         <div>
-          <label>
-            Heslo:
-            <input
-              type="password"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-              required
-              disabled={loading}
-            />
+          <label className="block text-sm font-medium mb-2">
+            Heslo
           </label>
+          <input
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+            disabled={loading}
+            className="w-full px-4 py-2 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-ring disabled:opacity-50"
+            placeholder="••••••••"
+          />
         </div>
 
-        <button type="submit" disabled={loading}>
+        <button 
+          type="submit" 
+          disabled={loading}
+          className="w-full btn-primary disabled:opacity-50"
+        >
           {loading ? 'Přihlašuji...' : 'Přihlásit se'}
         </button>
       </form>
 
-      <div>
-        <p>nebo</p>
-        
+      <div className="my-8">
+        <div className="relative">
+          <div className="absolute inset-0 flex items-center">
+            <div className="w-full border-t border-border"></div>
+          </div>
+          <div className="relative flex justify-center text-sm">
+            <span className="px-2 bg-background text-muted-foreground">nebo</span>
+          </div>
+        </div>
+      </div>
+
+      <div className="space-y-3">
         <button 
           onClick={handleGoogleLogin} 
           disabled={loading}
+          className="w-full btn-secondary flex items-center justify-center gap-3 disabled:opacity-50"
         >
-          🔍 Přihlásit se přes Google
+          <span className="text-lg">🔍</span>
+          Přihlásit se přes Google
         </button>
         
         <button 
           onClick={handleAppleLogin} 
           disabled={loading}
+          className="w-full btn-secondary flex items-center justify-center gap-3 disabled:opacity-50"
         >
-          🍎 Přihlásit se přes Apple ID
+          <span className="text-lg">🍎</span>
+          Přihlásit se přes Apple ID
         </button>
       </div>
 
-      <div>
-        <p>
+      <div className="mt-8 text-center">
+        <p className="text-sm text-muted-foreground">
           Nemáte účet?{' '}
-          <button onClick={onSwitchToRegister}>
+          <button 
+            onClick={onSwitchToRegister}
+            className="text-primary hover:underline font-medium"
+          >
             Registrovat se
           </button>
         </p>

@@ -102,22 +102,22 @@ export function CalendarView({
                 {hasEvents && (
                   <div className="space-y-1">
                     {dayEvents.holidaysCz.map((holiday, i) => (
-                      <div key={i} className="text-xs p-1 bg-red-100 text-red-800 rounded">
+                      <div key={i} className="text-xs p-1 bg-accent/20 text-accent-foreground rounded-md font-medium">
                         {holiday.name}
                       </div>
                     ))}
                     {dayEvents.holidaysDe.map((holiday, i) => (
-                      <div key={i} className="text-xs p-1 bg-blue-100 text-blue-800 rounded">
+                      <div key={i} className="text-xs p-1 bg-accent/15 text-accent-foreground rounded-md">
                         {holiday.name}
                       </div>
                     ))}
                     {dayEvents.events.map((event, i) => (
-                      <div key={i} className="text-xs p-1 bg-primary/10 text-primary rounded">
+                      <div key={i} className="text-xs p-1 bg-primary/10 text-primary rounded-md hover:bg-primary/15 transition-colors cursor-pointer">
                         {event.title}
                       </div>
                     ))}
                     {dayEvents.shifts.map((shift, i) => (
-                      <div key={i} className="text-xs p-1 bg-secondary/10 text-secondary-foreground rounded">
+                      <div key={i} className="text-xs p-1 bg-muted text-muted-foreground rounded-md">
                         {shift.employee}
                       </div>
                     ))}
