@@ -7,9 +7,11 @@ on:
     branches: [ "master" ]
 
 permissions:
-  contents: read
+  contents: write
   pull-requests: write
   issues: write
+  actions: write
+  checks: write
 
 jobs:
   build:
@@ -17,6 +19,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
     
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -37,20 +41,29 @@ jobs:
       run: pnpm test
 
   background-agent:
-    runs-on: ubuntu-latest
     needs: build
+    runs-on: ubuntu-latest
     
     steps:
     - uses: actions/checkout@v4
       with:
         fetch-depth: 0
         
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20.x'
+    - name: Configure Git
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
         
     - name: Enable Background Agent
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        echo "Repository is properly configured for background agent integration"
-        # Additional background agent setup steps can be added here 
+        echo "Repository configured for cloud background agents"
+        # This job enables cloud background agent support
+        
+    - name: Verify GitHub Integration
+      run: |
+        if [ -z "$(git remote -v | grep github.com)" ]; then
+          echo "Error: GitHub remote not found"
+          exit 1
+        fi 
