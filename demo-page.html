@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edward-Kalendář v2 - Stylové návrhy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --background: oklch(1.0000 0 0);
+            --foreground: oklch(0.2686 0 0);
+            --card: oklch(1.0000 0 0);
+            --card-foreground: oklch(0.2686 0 0);
+            --popover: oklch(1.0000 0 0);
+            --popover-foreground: oklch(0.2686 0 0);
+            --primary: oklch(0.7686 0.1647 70.0804);
+            --primary-foreground: oklch(0 0 0);
+            --secondary: oklch(0.9670 0.0029 264.5419);
+            --secondary-foreground: oklch(0.4461 0.0263 256.8018);
+            --muted: oklch(0.9846 0.0017 247.8389);
+            --muted-foreground: oklch(0.5510 0.0234 264.3637);
+            --accent: oklch(0.9869 0.0214 95.2774);
+            --accent-foreground: oklch(0.4732 0.1247 46.2007);
+            --destructive: oklch(0.6368 0.2078 25.3313);
+            --destructive-foreground: oklch(1.0000 0 0);
+            --border: oklch(0.9276 0.0058 264.5313);
+            --input: oklch(0.9276 0.0058 264.5313);
+            --ring: oklch(0.7686 0.1647 70.0804);
+            --font-sans: Inter, sans-serif;
+            --radius: 0.375rem;
+            --shadow: 0px 4px 8px -1px hsl(0 0% 0% / 0.10), 0px 1px 2px -2px hsl(0 0% 0% / 0.10);
+            --shadow-lg: 0px 4px 8px -1px hsl(0 0% 0% / 0.10), 0px 4px 6px -2px hsl(0 0% 0% / 0.10);
+            --shadow-xl: 0px 4px 8px -1px hsl(0 0% 0% / 0.10), 0px 8px 10px -2px hsl(0 0% 0% / 0.10);
+            --shadow-2xl: 0px 4px 8px -1px hsl(0 0% 0% / 0.25);
+        }
+
+        .dark {
+            --background: oklch(0.2046 0 0);
+            --foreground: oklch(0.9219 0 0);
+            --card: oklch(0.2686 0 0);
+            --card-foreground: oklch(0.9219 0 0);
+            --primary: oklch(0.7686 0.1647 70.0804);
+            --primary-foreground: oklch(0 0 0);
+            --secondary: oklch(0.2686 0 0);
+            --secondary-foreground: oklch(0.9219 0 0);
+            --muted: oklch(0.2686 0 0);
+            --muted-foreground: oklch(0.7155 0 0);
+            --accent: oklch(0.4732 0.1247 46.2007);
+            --accent-foreground: oklch(0.9243 0.1151 95.7459);
+            --border: oklch(0.3715 0 0);
+            --input: oklch(0.3715 0 0);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: var(--font-sans);
+            background: var(--background);
+            color: var(--foreground);
+            line-height: 1.6;
+        }
+
+        .bg-custom-background { background: var(--background); }
+        .bg-custom-card { background: var(--card); }
+        .bg-custom-primary { background: var(--primary); }
+        .bg-custom-secondary { background: var(--secondary); }
+        .bg-custom-muted { background: var(--muted); }
+        .bg-custom-accent { background: var(--accent); }
+        .text-custom-foreground { color: var(--foreground); }
+        .text-custom-card-foreground { color: var(--card-foreground); }
+        .text-custom-primary { color: var(--primary); }
+        .text-custom-primary-foreground { color: var(--primary-foreground); }
+        .text-custom-secondary-foreground { color: var(--secondary-foreground); }
+        .text-custom-muted-foreground { color: var(--muted-foreground); }
+        .text-custom-accent-foreground { color: var(--accent-foreground); }
+        .border-custom-border { border-color: var(--border); }
+        .shadow-custom { box-shadow: var(--shadow); }
+        .shadow-custom-lg { box-shadow: var(--shadow-lg); }
+        .shadow-custom-xl { box-shadow: var(--shadow-xl); }
+        .shadow-custom-2xl { box-shadow: var(--shadow-2xl); }
+
+        .gradient-text {
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .gradient-bg {
+            background: linear-gradient(135deg, var(--background), color-mix(in srgb, var(--secondary) 20%, transparent), color-mix(in srgb, var(--accent) 30%, transparent));
+        }
+
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+
+        .card-hover:hover {
+            transform: translateY(-8px);
+            box-shadow: var(--shadow-2xl);
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: var(--primary-foreground);
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: var(--radius);
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            text-align: center;
+        }
+
+        .btn-primary:hover {
+            opacity: 0.9;
+            transform: scale(1.05);
+        }
+
+        .btn-secondary {
+            background: var(--card);
+            color: var(--card-foreground);
+            padding: 1rem 2rem;
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            text-align: center;
+        }
+
+        .btn-secondary:hover {
+            background: var(--muted);
+            transform: scale(1.05);
+        }
+
+        .style-section {
+            display: none;
+        }
+
+        .style-section.active {
+            display: block;
+        }
+
+        .nav-btn {
+            padding: 0.75rem 1.5rem;
+            background: var(--muted);
+            color: var(--muted-foreground);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .nav-btn.active {
+            background: var(--primary);
+            color: var(--primary-foreground);
+        }
+
+        .nav-btn:hover:not(.active) {
+            background: var(--accent);
+            color: var(--accent-foreground);
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="fixed top-0 left-0 right-0 z-50 bg-custom-card border-b border-custom-border shadow-custom p-4">
+        <div class="max-w-6xl mx-auto flex items-center justify-between">
+            <h1 class="text-xl font-bold text-custom-primary">Edward-Kalendář v2 - Stylové návrhy</h1>
+            <div class="flex gap-2">
+                <button class="nav-btn active" onclick="showStyle('modern')" id="btn-modern">
+                    Moderní
+                </button>
+                <button class="nav-btn" onclick="showStyle('minimal')" id="btn-minimal">
+                    Minimalistický
+                </button>
+                <button class="nav-btn" onclick="showStyle('classic')" id="btn-classic">
+                    Klasický
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Modern Style -->
+    <div id="modern" class="style-section active">
+        <div class="min-h-screen gradient-bg pt-24">
+            <!-- Hero Section -->
+            <section class="relative px-6 py-24 text-center">
+                <div class="max-w-4xl mx-auto">
+                    <div class="mb-8 space-y-4">
+                        <h1 class="text-6xl font-bold gradient-text">
+                            Edward-Kalendář
+                        </h1>
+                        <p class="text-xl text-custom-muted-foreground max-w-2xl mx-auto">
+                            Moderní kalendářová aplikace pro správu francouzských událostí a plánování. 
+                            Efektivně spravujte směny, mzdy a plánujte svůj čas.
+                        </p>
+                    </div>
+                    
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+                        <a href="#" class="btn-primary">
+                            Začít používat Payroll
+                        </a>
+                        <a href="#" class="btn-secondary">
+                            Otevřít Kalendář
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Features Grid -->
+            <section class="px-6 py-16">
+                <div class="max-w-6xl mx-auto">
+                    <h2 class="text-3xl font-bold text-center mb-12">Naše Aplikace</h2>
+                    <div class="grid md:grid-cols-2 gap-8">
+                        
+                        <!-- Payroll Card -->
+                        <div class="bg-custom-card border border-custom-border rounded-2xl p-8 shadow-custom-lg card-hover">
+                            <div class="mb-4">
+                                <div class="w-12 h-12 bg-custom-primary rounded-lg flex items-center justify-center mb-4" style="background: color-mix(in srgb, var(--primary) 20%, transparent);">
+                                    <svg class="w-6 h-6 text-custom-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                                              d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1" />
+                                    </svg>
+                                </div>
+                                <h3 class="text-2xl font-bold mb-2">Payroll Dashboard</h3>
+                                <p class="text-custom-muted-foreground mb-6">
+                                    Kompletní správa směn, mezd a spropitného. Automatické výpočty, 
+                                    přehledy výdělků a efektivní správa pracovní doby.
+                                </p>
+                            </div>
+                            <a href="#" class="btn-primary w-full">Přejít na Payroll</a>
+                        </div>
+
+                        <!-- Calendar Card -->
+                        <div class="bg-custom-card border border-custom-border rounded-2xl p-8 shadow-custom-lg card-hover">
+                            <div class="mb-4">
+                                <div class="w-12 h-12 bg-custom-accent rounded-lg flex items-center justify-center mb-4" style="background: color-mix(in srgb, var(--accent) 20%, transparent);">
+                                    <svg class="w-6 h-6 text-custom-accent-foreground" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                                              d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                                    </svg>
+                                </div>
+                                <h3 class="text-2xl font-bold mb-2">Kalendář</h3>
+                                <p class="text-custom-muted-foreground mb-6">
+                                    Přehledný kalendář s kulturními akcemi, svátky a směnami. 
+                                    Plánujte efektivně a mějte přehled o všech důležitých událostech.
+                                </p>
+                            </div>
+                            <a href="#" class="btn-secondary w-full">Otevřít Kalendář</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="px-6 py-12 text-center">
+                <div class="max-w-2xl mx-auto">
+                    <p class="text-custom-muted-foreground">
+                        Edward-Kalendář v2 - Moderní řešení pro správu času a financí
+                    </p>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Minimal Style -->
+    <div id="minimal" class="style-section">
+        <div class="min-h-screen bg-custom-background pt-24">
+            <!-- Navigation -->
+            <div class="border-b border-custom-border">
+                <div class="max-w-5xl mx-auto px-6 py-4">
+                    <h1 class="text-lg font-medium">Edward-Kalendář</h1>
+                </div>
+            </div>
+
+            <!-- Hero Section -->
+            <section class="max-w-3xl mx-auto px-6 py-32 text-center">
+                <h1 class="text-5xl font-light mb-8" style="letter-spacing: -0.025em;">
+                    Jednoduché plánování
+                </h1>
+                <p class="text-lg text-custom-muted-foreground mb-16">
+                    Kalendářová aplikace pro správu francouzských událostí.<br />
+                    Čisté rozhraní, efektivní funkce.
+                </p>
+                
+                <div class="space-y-4">
+                    <a href="#" class="block w-full max-w-xs mx-auto py-4 bg-custom-foreground text-custom-background font-medium text-center">
+                        Payroll Dashboard
+                    </a>
+                    <a href="#" class="block w-full max-w-xs mx-auto py-4 border border-custom-border font-medium text-center hover:bg-custom-muted transition-colors">
+                        Kalendář
+                    </a>
+                </div>
+            </section>
+
+            <!-- Features -->
+            <section class="max-w-4xl mx-auto px-6 py-16">
+                <div class="grid md:grid-cols-2 gap-16">
+                    <div class="space-y-4">
+                        <h3 class="text-xl font-medium">Payroll</h3>
+                        <p class="text-custom-muted-foreground">
+                            Správa směn, mezd a spropitného. Přehledné výpočty a statistiky 
+                            pro efektivní finanční plánování.
+                        </p>
+                        <a href="#" class="inline-block text-sm border-b border-custom-foreground">
+                            Přejít na Payroll
+                        </a>
+                    </div>
+                    
+                    <div class="space-y-4">
+                        <h3 class="text-xl font-medium">Kalendář</h3>
+                        <p class="text-custom-muted-foreground">
+                            Kulturní akce, svátky a směny v jednom přehledném kalendáři. 
+                            Plánujte a organizujte svůj čas efektivně.
+                        </p>
+                        <a href="#" class="inline-block text-sm border-b border-custom-foreground">
+                            Otevřít Kalendář
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="border-t border-custom-border mt-32">
+                <div class="max-w-5xl mx-auto px-6 py-8">
+                    <p class="text-sm text-custom-muted-foreground">
+                        Edward-Kalendář v2
+                    </p>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Classic Style -->
+    <div id="classic" class="style-section">
+        <div class="min-h-screen bg-custom-background pt-24">
+            <!-- Header -->
+            <header class="bg-custom-card border-b border-custom-border shadow-custom">
+                <div class="max-w-7xl mx-auto px-6 py-6">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <h1 class="text-2xl font-bold text-custom-primary">Edward-Kalendář</h1>
+                            <p class="text-sm text-custom-muted-foreground">Profesionální systém pro správu času</p>
+                        </div>
+                        <nav class="hidden md:flex space-x-8">
+                            <a href="#" class="text-custom-foreground hover:text-custom-primary transition-colors">Payroll</a>
+                            <a href="#" class="text-custom-foreground hover:text-custom-primary transition-colors">Kalendář</a>
+                        </nav>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Main Content -->
+            <main class="max-w-7xl mx-auto px-6 py-16">
+                <!-- Hero Section -->
+                <section class="text-center mb-20">
+                    <h2 class="text-4xl font-bold mb-6">
+                        Komplexní řešení pro správu směn a plánování
+                    </h2>
+                    <p class="text-xl text-custom-muted-foreground max-w-3xl mx-auto mb-10">
+                        Edward-Kalendář v2 je profesionální nástroj určený pro efektivní správu 
+                        francouzských kulturních událostí, směn a mzdové agendy.
+                    </p>
+                    
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                        <a href="#" class="btn-primary">
+                            Spustit Payroll Dashboard
+                        </a>
+                        <a href="#" class="btn-secondary">
+                            Zobrazit Kalendář
+                        </a>
+                    </div>
+                </section>
+
+                <!-- Features Section -->
+                <section class="mb-20">
+                    <h3 class="text-3xl font-bold text-center mb-12">Klíčové funkce</h3>
+                    
+                    <div class="grid lg:grid-cols-2 gap-12">
+                        <!-- Payroll Feature -->
+                        <div class="bg-custom-card border border-custom-border rounded-lg p-8 shadow-custom">
+                            <div class="flex items-start space-x-4">
+                                <div class="p-3 rounded-lg" style="background: color-mix(in srgb, var(--primary) 10%, transparent);">
+                                    <svg class="w-8 h-8 text-custom-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                                              d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z" />
+                                    </svg>
+                                </div>
+                                <div class="flex-1">
+                                    <h4 class="text-xl font-semibold mb-3">Payroll Dashboard</h4>
+                                    <p class="text-custom-muted-foreground mb-6">
+                                        Komplexní správa směn, výpočet mezd a spropitného. Automatizované sestavy, 
+                                        přehledy výdělků a detailní analýza pracovní doby pro jednotlivé zaměstnance.
+                                    </p>
+                                    <div class="space-y-2 text-sm">
+                                        <div class="flex items-center space-x-2">
+                                            <span class="w-2 h-2 bg-custom-primary rounded-full"></span>
+                                            <span>Automatické výpočty mezd</span>
+                                        </div>
+                                        <div class="flex items-center space-x-2">
+                                            <span class="w-2 h-2 bg-custom-primary rounded-full"></span>
+                                            <span>Evidence spropitného</span>
+                                        </div>
+                                        <div class="flex items-center space-x-2">
+                                            <span class="w-2 h-2 bg-custom-primary rounded-full"></span>
+                                            <span>Detailní reporty</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Calendar Feature -->
+                        <div class="bg-custom-card border border-custom-border rounded-lg p-8 shadow-custom">
+                            <div class="flex items-start space-x-4">
+                                <div class="p-3 rounded-lg" style="background: color-mix(in srgb, var(--accent) 10%, transparent);">
+                                    <svg class="w-8 h-8 text-custom-accent-foreground" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                                              d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                                    </svg>
+                                </div>
+                                <div class="flex-1">
+                                    <h4 class="text-xl font-semibold mb-3">Inteligentní Kalendář</h4>
+                                    <p class="text-custom-muted-foreground mb-6">
+                                        Přehledný kalendář integrující kulturní akce, francouzské svátky a pracovní směny. 
+                                        Efektivní plánování s podporou více zobrazení a pokročilých filtrů.
+                                    </p>
+                                    <div class="space-y-2 text-sm">
+                                        <div class="flex items-center space-x-2">
+                                            <span class="w-2 h-2 bg-custom-accent rounded-full"></span>
+                                            <span>Francouzské kulturní události</span>
+                                        </div>
+                                        <div class="flex items-center space-x-2">
+                                            <span class="w-2 h-2 bg-custom-accent rounded-full"></span>
+                                            <span>Správa směn a prázdnin</span>
+                                        </div>
+                                        <div class="flex items-center space-x-2">
+                                            <span class="w-2 h-2 bg-custom-accent rounded-full"></span>
+                                            <span>Měsíční a týdenní pohledy</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- CTA Section -->
+                <section class="text-center bg-custom-muted rounded-xl p-12">
+                    <h3 class="text-2xl font-bold mb-4">Připraveni začít?</h3>
+                    <p class="text-custom-muted-foreground mb-8 max-w-2xl mx-auto">
+                        Vyberte si aplikaci podle vašich aktuálních potřeb. Obě jsou plně integrované 
+                        a navržené pro maximální produktivitu.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                        <a href="#" class="btn-primary">
+                            Začít s Payroll →
+                        </a>
+                        <a href="#" class="btn-secondary">
+                            Prozkoumat Kalendář →
+                        </a>
+                    </div>
+                </section>
+            </main>
+
+            <!-- Footer -->
+            <footer class="bg-custom-card border-t border-custom-border mt-20">
+                <div class="max-w-7xl mx-auto px-6 py-12">
+                    <div class="text-center">
+                        <h4 class="font-semibold mb-2">Edward-Kalendář v2</h4>
+                        <p class="text-sm text-custom-muted-foreground">
+                            Profesionální systém pro správu směn a mzdy © 2024
+                        </p>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script>
+        function showStyle(style) {
+            // Hide all sections
+            document.querySelectorAll('.style-section').forEach(section => {
+                section.classList.remove('active');
+            });
+            
+            // Remove active class from all buttons
+            document.querySelectorAll('.nav-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            // Show selected section
+            document.getElementById(style).classList.add('active');
+            
+            // Add active class to selected button
+            document.getElementById('btn-' + style).classList.add('active');
+        }
+    </script>
+</body>
+</html> 

@@ -1,0 +1,2305 @@
+[
+  {
+    "title": "Udělej mi json ze všch těchto dat",
+    "description": "ZVÝHODNĚNÁ VSTUPENKA DO PAMÁTNÍKU FR. CHOPINA A … Jedinečná možnost navštívit nově renovovaný Dům Chopin",
+    "date": "1.1.2025 - 31.12.2025",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "ŽIVOT V PROTEKTORÁTU ČECHY A MORAVA",
+    "description": "Výstava k příležitosti 80. letého výročí konce 2. světové války",
+    "date": "27.3.2025 - 31.5.2025",
+    "location": "Městská knihovna Mariánské Lázně, Hlavní 370/3",
+    "locationImportance": 5
+  },
+  {
+    "title": "POESIE NA TĚLO",
+    "description": "Výstava fotografií autorské básnické sbírky psané na ženská tě…",
+    "date": "31.3.2025 - 31.5.2025",
+    "location": "Old School Café, Hlavní 679/58",
+    "locationImportance": 5
+  },
+  {
+    "title": "OBRAZY Z ASTEROIDU PETIŠKA",
+    "description": "Výstava obrazů Dr. Martina Petišky",
+    "date": "15.4.2025 - 10.5.2025",
+    "location": "Divadelní galerie, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "ALEŠ REJL, FOTOGRAFIE | HLEDÁM OBYČEJNÝ SVĚT...",
+    "description": "Výstava fotografií",
+    "date": "29.4.2025 - 1.6.2025",
+    "location": "Hotel Hvězda, galerie Atrium, Goethovo náměstí...",
+    "locationImportance": 5
+  },
+  {
+    "title": "OSLAVY OSVOBOZENÍ V DOMĚ CHOPIN",
+    "description": "Přijďte oslavit 80. výročí osvobození Československa do Domu…",
+    "date": "8.5.2025 od 09:00 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "VÝSTAVA VOJENSKÝCH VETERÁNŮ JEEP WILLYS",
+    "description": "Ukázka amerických vojenských vozidel známých jako Jeep Wil…",
+    "date": "8.5.2025 od 09:00 hod",
+    "location": "Nádvoří Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "HRDINOVÉ V OBLACÍCH",
+    "description": "Exkluzivní výstava artefaktů věnovaná československým letcům…",
+    "date": "8.5.2025 od 10:00 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "HRDINOVÉ V OBLACÍCH - KOMENTOVANÁ PROHLÍDKA",
+    "description": "Komentovaná prohlídka spojená s prohlídkou exkluzivní výsta…",
+    "date": "8.5.2025 od 11:00 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "HRDINOVÉ V OBLACÍCH - KOMENTOVANÁ PROHLÍDKA",
+    "description": "Komentovaná prohlídka spojená s prohlídkou exkluzivní výsta…",
+    "date": "8.5.2025 od 13:00 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "HRDINOVÉ V OBLACÍCH - KOMENTOVANÁ PROHLÍDKA",
+    "description": "Komentovaná prohlídka spojená s prohlídkou exkluzivní výsta…",
+    "date": "8.5.2025 od 15:00 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "SNEAKS",
+    "description": "Animovaný / komedie / rodinný, Kanada / Velká Británie, 2025…",
+    "date": "8.5.2025 od 15:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZAŠLÁ SLÁVA ODBORÁŘSKÉ REKREACE ANEB LÁZNĚ PATŘÍ P…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "8.5.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "OSLAVY OSVOBOZENÍ - 80. VÝROČÍ",
+    "description": "Vzpomínková akce",
+    "date": "8.5.2025 od 16:00 hod",
+    "location": "Skalníkovy sady, Mariánské Lázně",
+    "locationImportance": 5
+  },
+  {
+    "title": "S LÁSKOU, VAŠE HILDE",
+    "description": "Drama, Německo, 2024, 124 min., 15+, titulky",
+    "date": "8.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "DIXIELAND PLANÁ",
+    "description": "Během koncertu zazní známé melodie z období slávy New Orle…",
+    "date": "8.5.2025 od 17:00 hod",
+    "location": "Nádvoří Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "HRDINOVÉ V OBLACÍCH - PŘEDNÁŠKA",
+    "description": "Přednáška spojená s prohlídkou exkluzivní výstavy artefaktů č…",
+    "date": "8.5.2025 od 18:00 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "FILMOVÝ KLUB: NEBEŠTÍ JEZDCI",
+    "description": "Válečné drama z roku 1968 podle autobiografického románu F…",
+    "date": "8.5.2025 od 19:30 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "THUNDERBOLTS*",
+    "description": "Akční / dobrodružný / sci-fi, USA, 2025, 127 min., 12+,",
+    "date": "8.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZAHÁJENÍ LÁZEŇSKÉ SEZÓNY 2025",
+    "description": "Oblíbená akce s bohatým doprovodným programem",
+    "date": "9.5.2025 - 11.5.2025",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "SPECIÁLNÍ MENU V RESTAURACI U OPATA",
+    "description": "Při příležitosti zahájení lázeňské sezóny",
+    "date": "9.5.2025 - 11.5.2025",
+    "location": "Reitenberger Spa Medical, Ibsenova 92",
+    "locationImportance": 5
+  },
+  {
+    "title": "HERITAGE FORUM MARIÁNSKÉ LÁZNĚ - PANELOVÁ DISKUZE…",
+    "description": "Zvýhodněné vstupné na celý den",
+    "date": "9.5.2025 od 09:00 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "HERITAGE FORUM MARIÁNSKÉ LÁZNĚ - PANELOVÁ DISKUZE…",
+    "description": "Děti a mládež u rozhodovacího stolu: Mezi potenciálem a limi…",
+    "date": "9.5.2025 od 09:00 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "GOLFOVÝ TURNAJ",
+    "description": "Golfový turnaj s postupným startem",
+    "date": "9.5.2025 od 10:00 hod",
+    "location": "Golfové hřiště Mariánské Lázně, Mariánské Lázně 582",
+    "locationImportance": 5
+  },
+  {
+    "title": "HERITAGE FORUM MARIÁNSKÉ LÁZNĚ - PANELOVÁ DISKUZE…",
+    "description": "Nástroje pro efektivní monitoring stavu ochrany kulturního dě…",
+    "date": "9.5.2025 od 11:00 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "LIVE PODCAST STUDIO PŘÍMO V CENTRU MARIÁNSKÝCH LÁ…",
+    "description": "Hej, Mariánky, máme pro vás něco sakra dobrýho!",
+    "date": "9.5.2025 od 13:00 hod",
+    "location": "Skalníkovy sady, Mariánské Lázně",
+    "locationImportance": 5
+  },
+  {
+    "title": "HERITAGE FORUM MARIÁNSKÉ LÁZNĚ - PANELOVÁ DISKUZE…",
+    "description": "Tranzitorní trendy v architektuře a urbanismu a jejich dopad n…",
+    "date": "9.5.2025 od 13:00 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "ODHALENÍ SOCHY",
+    "description": "Odhalení sochy Mládí od Vítězslava Eibla v parku nad Kolonád…",
+    "date": "9.5.2025 od 14:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "BUSKING",
+    "description": "Pouliční vystoupení na kolonádě a v parku",
+    "date": "9.5.2025 od 14:00 hod",
+    "location": "Skalníkovy sady, Mariánské Lázně",
+    "locationImportance": 5
+  },
+  {
+    "title": "DĚTSKÁ SEKCE",
+    "description": "Zábavný program pro děti v rámci Zahájení lázeňské sezóny",
+    "date": "9.5.2025 od 14:00 hod",
+    "location": ",",
+    "locationImportance": 5
+  },
+  {
+    "title": "JAZZ CAKES",
+    "description": "Jazzové trio",
+    "date": "9.5.2025 od 14:30 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KÁMEN A SKLO",
+    "description": "Vernisáž výstavy z děl akademického sochaře Petra Váni, uměl…",
+    "date": "9.5.2025 od 16:00 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "VYSTOUPENÍ VÍTĚZŮ SOUTĚŽE BACHELOR ČESKO",
+    "description": "podpisová akce: Jan Solfronk s partnerkou Sabinou",
+    "date": "9.5.2025 od 16:00 hod",
+    "location": "Areál Arnika, 35301 Mariánské...",
+    "locationImportance": 80
+  },
+  {
+    "title": "PĚVECKÝ SBOR FONTÁNA",
+    "description": "Smíšený pěvecký sbor",
+    "date": "9.5.2025 od 16:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "CIMBÁLOVKA BLUE CIMBAL",
+    "description": "1st electro-cimbal in pop-rock",
+    "date": "9.5.2025 od 17:00 hod",
+    "location": "Areál Arnika, 35301 Mariánské...",
+    "locationImportance": 80
+  },
+  {
+    "title": "VÁCLAV MALINA: KRAJINY",
+    "description": "Vernisáž výstavy výtvarného umělce Václava Maliny",
+    "date": "9.5.2025 od 17:00 hod",
+    "location": "Galerie Marienbad, Kolonáda,...",
+    "locationImportance": 80
+  },
+  {
+    "title": "MINECRAFT FILM",
+    "description": "Rodinný / akce / fantasy / dobrodružný, USA, 2025, 101 min., p…",
+    "date": "9.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "DM BAND",
+    "description": "",
+    "date": "DM Band v Restaurant & Café Classic 9.5.2025",
+    "location": "",
+    "locationImportance": 5
+  },
+  {
+    "title": "9.5.2025 od 18:00 hod",
+    "description": "Classic cafe & restaurant,Hlavní 131/50 RETRO PARTY Hudba 60. 70. a 80. let s nejpopulárnějšími hity disco, rocku a …",
+    "date": "9.5.2025 od 19:00 hod",
+    "location": "Hotel Continental, Hlavní 230/88",
+    "locationImportance": 5
+  },
+  {
+    "title": "VARHANNÍ KONCERT 9.5.2025 od 19:30 hod",
+    "description": "Evangelický kostel,Mírové náměstí 90/7",
+    "date": "ZSO: SLAVNOSTNÍ KONCERT K ZAHÁJENÍ LÁZEŇSKÉ SEZÓNY 9.5.2025 od 19:30 hod",
+    "location": "Společenský dům Casino, Reitenbergerova 95/4",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZLATO, UBER PLYN!",
+    "description": "Komedie / romantický, Francie, 2024, 91 min., přístupný, česk…",
+    "date": "9.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "KÁMEN A SKLO",
+    "description": "Výstava z děl akademického sochaře Petra Váni, uměleckého s…",
+    "date": "10.5.2025 - 30.5.2025",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "VÁCLAV MALINA: KRAJINY",
+    "description": "Výstava výtvarného umělce Václava Maliny",
+    "date": "10.5.2025 - 16.9.2025",
+    "location": "Galerie Marienbad, Kolonáda,...",
+    "locationImportance": 80
+  },
+  {
+    "title": "FARMÁŘSKÉ TRHY",
+    "description": "Farmářské trhy v Mariánských Lázních",
+    "date": "10.5.2025 od 09:00 hod",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "ŽEHNÁNÍ PRAMENŮM",
+    "description": "Tradiční žehnání pramenům v rámci Zahájení lázeňské sezóny",
+    "date": "10.5.2025 od 10:00 hod",
+    "location": "Římskokatolický děkanský kostel Nanebevzetí..., Goethovo náměstí",
+    "locationImportance": 5
+  },
+  {
+    "title": "FESTIVAL PAT & MAT FILM",
+    "description": "Filmy s autorským výkladem a ukázkou loutek a animace",
+    "date": "10.5.2025 od 10:00 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "PROMENÁDA V KOSTÝMECH",
+    "description": "Setkání s několika historickými návštěvníky prostřednictvím D…",
+    "date": "10.5.2025 od 10:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "GRILOVÁNÍ U OREA SPA HOTELU BOHEMIA",
+    "description": "Přijďte zahájit grilovací sezónu s OREA",
+    "date": "10.5.2025 od 11:00 hod",
+    "location": "OREA Spa Hotel Bohemia, Hlavní 100/40",
+    "locationImportance": 5
+  },
+  {
+    "title": "POKELANDIA S JANEM SOLFRONKEM",
+    "description": "Praktický a zábavný kroužek o hře Pokémon TCG",
+    "date": "10.5.2025 od 11:30 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "RODEO BÝK",
+    "description": "jízda na elektrickém býkovi",
+    "date": "10.5.2025 od 13:00 hod",
+    "location": "Skalníkovy sady, Mariánské Lázně",
+    "locationImportance": 5
+  },
+  {
+    "title": "BUSKING",
+    "description": "Pouliční vystoupení na kolonádě a v parku",
+    "date": "10.5.2025 od 13:00 hod",
+    "location": "Skalníkovy sady, Mariánské Lázně",
+    "locationImportance": 5
+  },
+  {
+    "title": "DĚTSKÁ SEKCE",
+    "description": "Zábavný program pro děti v rámci Zahájení lázeňské sezóny",
+    "date": "10.5.2025 od 13:00 hod",
+    "location": "Kolonáda Karolinina a Rudolfova pramene, 353 01 Mariánské...",
+    "locationImportance": 80
+  },
+  {
+    "title": "FOLKLORNÍ SOUBOR MARJÁNEK",
+    "description": "Tradice, které žijí – od nejmenších po dospělé",
+    "date": "10.5.2025 od 13:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KRÁLOVSKÁ PROHLÍDKA",
+    "description": "Speciální tematická komentovaná prohlídka v rámci program…",
+    "date": "10.5.2025 od 14:00 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "AKORDEONOVÝ ORCHESTR MARIÁNSKÉ LÁZNĚ",
+    "description": "Více než 60 let hudby, která spojuje generace",
+    "date": "10.5.2025 od 14:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "UKÁZKA CVIČENÍ TAI ČI",
+    "description": "s možností si tento pohyb přímo na sobě vyzkoušet!",
+    "date": "10.5.2025 od 15:00 hod",
+    "location": "Skalníkovy sady, Mariánské Lázně",
+    "locationImportance": 5
+  },
+  {
+    "title": "MINECRAFT FILM",
+    "description": "Rodinný / akce / fantasy / dobrodružný, USA, 2025, 101 min., p…",
+    "date": "10.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "YOUNGIES PARTY",
+    "description": "MC Gey, Paulie Garand nebo Sawsane,...",
+    "date": "10.5.2025 od 17:00 hod",
+    "location": "Lesní mlýn, Třebízského 204/12",
+    "locationImportance": 5
+  },
+  {
+    "title": "RETRO PARTY",
+    "description": "Hudba 60. 70. a 80. let s nejpopulárnějšími hity disco, rocku a …",
+    "date": "10.5.2025 od 19:00 hod",
+    "location": "Hotel Continental, Hlavní 230/88",
+    "locationImportance": 5
+  },
+  {
+    "title": "STAN & TONY REVIVAL",
+    "description": "Mariánskolázeňská parta, která vás nenechá v klidu sedět",
+    "date": "10.5.2025 od 19:00 hod",
+    "location": "Areál Arnika, 35301 Mariánské...",
+    "locationImportance": 80
+  },
+  {
+    "title": "DJ DISCO",
+    "description": "Připravte se na večer plný skvělé hudby",
+    "date": "10.5.2025 od 19:30 hod",
+    "location": "OREA Spa Hotel Palace Zvon,Hlavní 68",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZLATO, UBER PLYN!",
+    "description": "Komedie / romantický, Francie, 2024, 91 min., přístupný, česk…",
+    "date": "10.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "LUCIE BÍLÁ S KAPELOU PETRA MALÁSKA",
+    "description": "Jedna z nejpopulárnějších pop-star a muzikálová hvězda",
+    "date": "10.5.2025 od 20:30 hod",
+    "location": "Areál Arnika, 35301 Mariánské...",
+    "locationImportance": 80
+  },
+  {
+    "title": "JAMES COLE & IDEA / SVĚTELNÁ SHOW",
+    "description": "Legendy českého rapu za doprovodu světelné show",
+    "date": "10.5.2025 od 22:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOLONÁDA PLNÁ HUDBY, ZPĚVU A TANCE",
+    "description": "Zahájení lázeňské sezóny v podání ZUŠ Fryderyka Chopina Ma…",
+    "date": "11.5.2025 od 10:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "SNEAKS",
+    "description": "Animovaný / komedie / rodinný, Kanada / Velká Británie, 2025…",
+    "date": "11.5.2025 od 15:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "THUNDERBOLTS* 3D",
+    "description": "Akční / dobrodružný / sci-fi, USA, 2025, 127 min., 12+,",
+    "date": "11.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "HOUSLE",
+    "description": "Divadelní představení, ČR, 2019, 90 min., přístupný",
+    "date": "11.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "INTERLUDIUM",
+    "description": "Vernisáž výstavy akademického malíře Dalibora Říhánka",
+    "date": "12.5.2025 od 16:00 hod",
+    "location": "Divadelní galerie, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "INTERLUDIUM",
+    "description": "Výstava akademického malíře Dalibora Říhánka",
+    "date": "13.5.2025 - 8.6.2025",
+    "location": "Divadelní galerie, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROHLÍDKA MĚSTSKÉHO DIVADLA S PRŮVODCEM",
+    "description": "Divadlo z jiné strany...",
+    "date": "13.5.2025 od 14:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "VYŠEHRAD DVJE",
+    "description": "Komedie, Česko, 2025, 110 min., 15+",
+    "date": "13.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "THE SURFER",
+    "description": "Thriller, Austrálie / USA, 2024, 99 min., 12+, titulky",
+    "date": "13.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "GLENN MILLER REVIVAL",
+    "description": "Jazz & Evergreens",
+    "date": "13.5.2025 od 19:30 hod",
+    "location": "Pravoslavný kostel sv. Vladimíra,Ruská 347/9",
+    "locationImportance": 5
+  },
+  {
+    "title": "VYŠEHRAD DVJE",
+    "description": "Komedie, Česko, 2025, 110 min., 15+",
+    "date": "14.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "THE SURFER",
+    "description": "Thriller, Austrálie / USA, 2024, 99 min., 12+, titulky",
+    "date": "14.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "NEJEN NA KRÁSNÉM MODRÉM DUNAJI",
+    "description": "Operety a muzikály.",
+    "date": "14.5.2025 od 19:30 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "SLAVNÁ MILOSTNÁ SETKÁNÍ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "15.5.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "MAGOŘI NA KOLE",
+    "description": "Dokument, ČR, 2024, 85 min., přístupný",
+    "date": "15.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "ŠTĚPÁN JAVŮREK",
+    "description": "Beseda se spisovatelem Štěpánem Javůrkem o jeho knihách, o …",
+    "date": "15.5.2025 od 19:30 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "NEZVRATNÝ OSUD: POKREVNÍ LINIE",
+    "description": "Horor, USA, 2025, 109 min., 15+, titulky",
+    "date": "15.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "VEČER S KLAVÍREM",
+    "description": "Nechte se unést kouzlem klavírních melodií",
+    "date": "15.5.2025 od 19:30 hod",
+    "location": "OREA Spa Hotel Palace Zvon,Hlavní 68",
+    "locationImportance": 5
+  },
+  {
+    "title": "ODDACÍ LIST",
+    "description": "Divadlo lidové tvorby Mariánské Lázně, režie: Petr Hála",
+    "date": "15.5.2025 od 19:30 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "MAGOŘI NA KOLE",
+    "description": "Dokument, ČR, 2024, 85 min., přístupný",
+    "date": "16.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "RETRO PARTY",
+    "description": "Hudba 60. 70. a 80. let s nejpopulárnějšími hity disco, rocku a …",
+    "date": "16.5.2025 od 19:00 hod",
+    "location": "Hotel Continental, Hlavní 230/88",
+    "locationImportance": 5
+  },
+  {
+    "title": "VARHANNÍ KONCERT 16.5.2025 od 19:30 hod",
+    "description": "Evangelický kostel,Mírové náměstí 90/7 NEZVRATNÝ OSUD: POKREVNÍ LINIE Horor, USA, 2025, 109 min., 15+, titulky",
+    "date": "16.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZSO. BENEFIČNÍ KONCERT PRO HOTEL LESNÍ MLÝN",
+    "description": "Koncert Západočeského symfonického orchestru.",
+    "date": "16.5.2025 od 19:30 hod",
+    "location": "Lesní mlýn, Třebízského 204/12",
+    "locationImportance": 5
+  },
+  {
+    "title": "FARMÁŘSKÉ TRHY",
+    "description": "Farmářské trhy v Mariánských Lázních",
+    "date": "17.5.2025 od 09:00 hod",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO STOPÁCH SPISOVATELŮ ANEB MARIÁNSKOLÁZEŇSKÁ M…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "17.5.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "THUNDERBOLTS*",
+    "description": "Akční / dobrodružný / sci-fi, USA, 2025, 127 min., 12+,",
+    "date": "17.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "DJ DISCO",
+    "description": "Připravte se na večer plný skvělé hudby",
+    "date": "17.5.2025 od 19:30 hod",
+    "location": "OREA Spa Hotel Palace Zvon,Hlavní 68",
+    "locationImportance": 5
+  },
+  {
+    "title": "NEZVRATNÝ OSUD: POKREVNÍ LINIE",
+    "description": "Horor, USA, 2025, 109 min., 15+, titulky",
+    "date": "17.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "HUDEBNÍ PODVEČER V DIVADLE GIUSEPPE VERDIHO",
+    "description": "Elvis Presley revival",
+    "date": "17.5.2025 od 19:30 hod",
+    "location": "Hotel Continental, Hlavní 230/88",
+    "locationImportance": 5
+  },
+  {
+    "title": "VÍTÁNÍ LÉTA SPOLU SE STAN & TONY REVIVAL",
+    "description": "Česká muzika, 90. léta, Latino, Rock &roll",
+    "date": "17.5.2025 od 20:00 hod",
+    "location": "Roxy music & bowling bar,Nákladní 353/2",
+    "locationImportance": 5
+  },
+  {
+    "title": "MINECRAFT FILM",
+    "description": "Rodinný / akce / fantasy / dobrodružný, USA, 2025, 101 min., p…",
+    "date": "18.5.2025 od 15:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "MISSION: IMPOSSIBLE - POSLEDNÍ ZÚČTOVÁNÍ, PŘEDPREM…",
+    "description": "Akční / thriller, USA, 2025, 165 min., 12+, české znění",
+    "date": "18.5.2025 od 18:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "FESTIVAL POROZUMĚNÍ",
+    "description": "Příležitost k vzájemnému setkávání lidí s postižením a bez pos…",
+    "date": "20.5.2025 - 22.5.2025",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "MOUDROST ŠTĚSTÍ",
+    "description": "Dokument, Švýcarsko, 2025, 90 min., 12+, titulky",
+    "date": "20.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "AFRIKA ANEB ČEŠI MEZI LIDOŽRAVCI",
+    "description": "Divadlo Járy Cimrmana Praha, režie: Ladislav Smoljak",
+    "date": "20.5.2025 od 19:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "THUNDERBOLTS*",
+    "description": "Akční / dobrodružný / sci-fi, USA, 2025, 127 min., 12+,",
+    "date": "20.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "MOUDROST ŠTĚSTÍ",
+    "description": "Dokument, Švýcarsko, 2025, 90 min., 12+, titulky",
+    "date": "21.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "ROMAN DRAGOUN",
+    "description": "Zpěvák, skladatel a klávesista Roman Dragoun patří k ikonám…",
+    "date": "21.5.2025 od 19:30 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "NEZVRATNÝ OSUD: POKREVNÍ LINIE",
+    "description": "Horor, USA, 2025, 109 min., 15+, titulky",
+    "date": "21.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "TANEČNÍ VEČER S ŽIVOU HUDBOU",
+    "description": "Jedinečné hudební večery",
+    "date": "21.5.2025 od 19:30 hod",
+    "location": "Hotel Continental, Hlavní 230/88",
+    "locationImportance": 5
+  },
+  {
+    "title": "TLOSKOV FICTION",
+    "description": "V rámci Festivalu porozumění bude uveden na Malé scéně Dom…",
+    "date": "22.5.2025 od 10:00 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "PO STOPÁCH SLAVNÝCH NÁVŠTĚVNÍKŮ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "22.5.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "VYŠEHRAD DVJE",
+    "description": "Komedie, Česko, 2025, 110 min., 15+",
+    "date": "22.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "VEČER S KLAVÍREM",
+    "description": "Nechte se unést kouzlem klavírních melodií",
+    "date": "22.5.2025 od 19:30 hod",
+    "location": "OREA Spa Hotel Palace Zvon,Hlavní 68",
+    "locationImportance": 5
+  },
+  {
+    "title": "CAFÉ EUROPE: PŘEDNÁŠKA",
+    "description": "Přednáška Ing. Pavla Kučeravého : Výzvy obnovy historických …",
+    "date": "22.5.2025 od 19:30 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "MISSION: IMPOSSIBLE - POSLEDNÍ ZÚČTOVÁNÍ",
+    "description": "Akční / thriller, USA, 2025, 165 min., 12+,",
+    "date": "22.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "LILO & STITCH",
+    "description": "Rodinný, USA, 2025, 110 min., přístupný, české znění",
+    "date": "23.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "RETRO PARTY",
+    "description": "Hudba 60. 70. a 80. let s nejpopulárnějšími hity disco, rocku a …",
+    "date": "23.5.2025 od 19:00 hod",
+    "location": "Hotel Continental, Hlavní 230/88",
+    "locationImportance": 5
+  },
+  {
+    "title": "MISSION: IMPOSSIBLE - POSLEDNÍ ZÚČTOVÁNÍ",
+    "description": "Akční / thriller, USA, 2025, 165 min., 12+,",
+    "date": "23.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZSO: KRÁSA DVOU HARF",
+    "description": "Komorní koncert věnovaný dvěma harfám.",
+    "date": "23.5.2025 od 19:30 hod",
+    "location": "Společenský dům Casino, Reitenbergerova 95/4",
+    "locationImportance": 5
+  },
+  {
+    "title": "VÍTÁNÍ OBČÁNKŮ",
+    "description": "Zveme nově narozené děti a jejich rodiče a blízké na další vítán…",
+    "date": "24.5.2025",
+    "location": "Anglikánský kostel,Ruská 98",
+    "locationImportance": 5
+  },
+  {
+    "title": "NĚCO NA VIDLIČKU",
+    "description": "festival dobrých pochutin",
+    "date": "24.5.2025 - 25.5.2025",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KRAJEM LÉČIVÝCH VOD",
+    "description": "Tradiční turistický pochod - \"Krajem léčivých vod\"",
+    "date": "24.5.2025",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "FARMÁŘSKÉ TRHY",
+    "description": "Farmářské trhy v Mariánských Lázních",
+    "date": "24.5.2025 od 09:00 hod",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "DENDROLOGICKÁ PROHLÍDKA ANEB CO SÁZEL JEŠTĚ SKAL…",
+    "description": "Speciální tematická komentovaná prohlídka věnovaná oslavám…",
+    "date": "24.5.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "LILO & STITCH 3D",
+    "description": "Rodinný, USA, 2025, 110 min., přístupný, české znění",
+    "date": "24.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "RETRO PARTY",
+    "description": "Hudba 60. 70. a 80. let s nejpopulárnějšími hity disco, rocku a …",
+    "date": "24.5.2025 od 19:00 hod",
+    "location": "Hotel Continental, Hlavní 230/88",
+    "locationImportance": 5
+  },
+  {
+    "title": "DJ DISCO",
+    "description": "Připravte se na večer plný skvělé hudby",
+    "date": "24.5.2025 od 19:30 hod",
+    "location": "OREA Spa Hotel Palace Zvon,Hlavní 68",
+    "locationImportance": 5
+  },
+  {
+    "title": "MISSION: IMPOSSIBLE - POSLEDNÍ ZÚČTOVÁNÍ",
+    "description": "Akční / thriller, USA, 2025, 165 min., 12+,",
+    "date": "24.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "LILO & STITCH",
+    "description": "Rodinný, USA, 2025, 110 min., přístupný, české znění",
+    "date": "25.5.2025 od 15:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "MISSION: IMPOSSIBLE - POSLEDNÍ ZÚČTOVÁNÍ, PŘEDPREM…",
+    "description": "Akční / thriller, USA, 2025, 165 min., 12+, české znění",
+    "date": "25.5.2025 od 18:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "VYŠEHRAD DVJE",
+    "description": "Komedie, Česko, 2025, 110 min., 15+",
+    "date": "27.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "NÁVŠTĚVA NA ZABITÍ",
+    "description": "Divadlo Kalich Praha, režie: Pavel Khek",
+    "date": "27.5.2025 od 19:30 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "MISSION: IMPOSSIBLE - POSLEDNÍ ZÚČTOVÁNÍ",
+    "description": "Akční / thriller, USA, 2025, 165 min., 12+,",
+    "date": "27.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "FEMME FATALE / CHERCHEZ LA FEMME",
+    "description": "Přední český hobojista Jan Adamus a talentovaná varhanistka J…",
+    "date": "27.5.2025 od 19:30 hod",
+    "location": "Hudební síň Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "CESTOVATELSKÁ PŘEDNÁŠKA - POLABÍM - DOLNÍ TOK",
+    "description": "Další díl z cyklu přednášek Ing. Petra Bořila",
+    "date": "28.5.2025 od 17:00 hod",
+    "location": "Městská knihovna Mariánské Lázně, Hlavní 370/3",
+    "locationImportance": 5
+  },
+  {
+    "title": "VYŠEHRAD DVJE",
+    "description": "Komedie, Česko, 2025, 110 min., 15+",
+    "date": "28.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "NA KŘÍDLECH HUDBY",
+    "description": "Májová noc!",
+    "date": "28.5.2025 od 19:30 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "MISSION: IMPOSSIBLE - POSLEDNÍ ZÚČTOVÁNÍ",
+    "description": "Akční / thriller, USA, 2025, 165 min., 12+,",
+    "date": "28.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "ARCHITEKTURA V PRŮBĚHU STOLETÍ ANEB CO NÁM ZBYLO…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "29.5.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "DĚTSKÁ ČÍTÁRNIČKA S DIVADÉLKEM",
+    "description": "Hodinka plná zábavy, čtení, vyrábění a divadla",
+    "date": "29.5.2025 od 16:00 hod",
+    "location": "Městská knihovna Mariánské Lázně, Hlavní 370/3",
+    "locationImportance": 5
+  },
+  {
+    "title": "HIGH SCHOOL HEIST",
+    "description": "Komedie, ČR, 2025, 99 min., přístupný",
+    "date": "29.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "HUDEBNÍ PODVEČER V DIVADLE GIUSEPPE VERDIHO",
+    "description": "Karel Gott revival",
+    "date": "29.5.2025 od 19:30 hod",
+    "location": "Hotel Continental, Hlavní 230/88",
+    "locationImportance": 5
+  },
+  {
+    "title": "KARATE KID: LEGENDY",
+    "description": "Akční / drama, USA, 2025, 95 min., přístupný, české znění",
+    "date": "29.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "HIGH SCHOOL HEIST",
+    "description": "Komedie, ČR, 2025, 99 min., přístupný",
+    "date": "30.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "RETRO PARTY",
+    "description": "Hudba 60. 70. a 80. let s nejpopulárnějšími hity disco, rocku a …",
+    "date": "30.5.2025 od 19:00 hod",
+    "location": "Hotel Continental, Hlavní 230/88",
+    "locationImportance": 5
+  },
+  {
+    "title": "KARATE KID: LEGENDY",
+    "description": "Akční / drama, USA, 2025, 95 min., přístupný, české znění",
+    "date": "30.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "BOX OF CHOCOLATES",
+    "description": "Život je jako bonboniéra, nikdy nevíš, co ochutnáš... Ale v příp…",
+    "date": "30.5.2025 od 19:30 hod",
+    "location": "Nádvoří Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "FARMÁŘSKÉ TRHY",
+    "description": "Farmářské trhy v Mariánských Lázních",
+    "date": "31.5.2025 od 09:00 hod",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "JARNÍ KONCERT",
+    "description": "Odpoledne plné hudby, pohody a dobrého vína",
+    "date": "31.5.2025 od 14:00 hod",
+    "location": "Lesní mlýn, Třebízského 204/12",
+    "locationImportance": 5
+  },
+  {
+    "title": "DEN DĚTÍ VE VELKÉ HLEĎSEBI",
+    "description": "Den dětí ve Velké Hleďsebi",
+    "date": "31.5.2025 od 14:00 hod",
+    "location": "Velká Hleďsebe, 353 01 Velká...",
+    "locationImportance": 5
+  },
+  {
+    "title": "LILO & STITCH 3D",
+    "description": "Rodinný, USA, 2025, 110 min., přístupný, české znění",
+    "date": "31.5.2025 od 14:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO PRAMENECH",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "31.5.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KARATE KID: LEGENDY",
+    "description": "Akční / drama, USA, 2025, 95 min., přístupný, české znění",
+    "date": "31.5.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "RETRO PARTY",
+    "description": "Hudba 60. 70. a 80. let s nejpopulárnějšími hity disco, rocku a …",
+    "date": "31.5.2025 od 19:00 hod",
+    "location": "Hotel Continental, Hlavní 230/88",
+    "locationImportance": 5
+  },
+  {
+    "title": "MISSION: IMPOSSIBLE - POSLEDNÍ ZÚČTOVÁNÍ",
+    "description": "Akční / thriller, USA, 2025, 165 min., 12+,",
+    "date": "31.5.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "DJ DISCO",
+    "description": "Připravte se na večer plný skvělé hudby",
+    "date": "31.5.2025 od 19:30 hod",
+    "location": "OREA Spa Hotel Palace Zvon,Hlavní 68",
+    "locationImportance": 5
+  },
+  {
+    "title": "POHÁDKY PRO HURVÍNKA",
+    "description": "Loutkový, ČR, 2025, 75 min., přístupný",
+    "date": "1.6.2025 od 15:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "LILO & STITCH",
+    "description": "Rodinný, USA, 2025, 110 min., přístupný, české znění",
+    "date": "1.6.2025 od 17:00 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "BOLERO",
+    "description": "Drama / životopisný, Francie, 2024, 120 min., 12+, titulky",
+    "date": "1.6.2025 od 19:30 hod",
+    "location": "Kino Slavia 3D, Nerudova 437",
+    "locationImportance": 5
+  },
+  {
+    "title": "ROZTANČENÉ DIVADLO",
+    "description": "ZUŠ Fryderyka Chopina Mariánské Lázně",
+    "date": "3.6.2025 od 16:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "FILMOVÝ KLUB: DOKTOR NA TRIPU",
+    "description": "Dokumentární film režiséra a kameramana Davida Čálka",
+    "date": "3.6.2025 od 19:30 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "ŠPANĚLSKÝ VEČER S CARMEN",
+    "description": "Edity Adlerové(zpěv), Vlaďky Křenkové (klavír) a Soni Vimrov…",
+    "date": "4.6.2025 od 19:30 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "SLAVNÁ MILOSTNÁ SETKÁNÍ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "5.6.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "CAFÉ EUROPE: PŘEDNÁŠKA",
+    "description": "Vývoj mariánskolázeňských altánů, kolonád a jímání mineráln…",
+    "date": "5.6.2025 od 19:30 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "ZAMILOVANÝ SUKNIČKÁŘ",
+    "description": "Divadelní společnost Háta Praha, režie: Roman Štolpa",
+    "date": "5.6.2025 od 19:30 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "DEŽERT: FESTIVAL ABSURDNÍ KOMIKY, HUMORU A IMPROV…",
+    "description": "Nultý ročník festivalu",
+    "date": "6.6.2025 - 7.6.2025",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "VĚCI NA VYHOZENÍ",
+    "description": "Vernisáž výstavy obrazů a grafik výtvarnice Bohdany Holubcové",
+    "date": "6.6.2025 od 17:00 hod",
+    "location": "Nádvoří Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "NARUBY, ZÁVĚREČNÁ VÝSTAVA VÝTVARNÉHO OBORU ZUŠ Š…",
+    "description": "Vernisáž výstavy prací žáků",
+    "date": "6.6.2025 od 17:00 hod",
+    "location": "Nádvoří Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "NEVYŽÁDANÁ RADA",
+    "description": "Mystifikační diskusní pořad občanské poradny, jež poradí i s t…",
+    "date": "6.6.2025 od 19:30 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "LIBRARY JAZZ",
+    "description": "Library bar zve na večer plný jazzu!",
+    "date": "6.6.2025 od 20:00 hod",
+    "location": "Library Bar ,Ruská 123",
+    "locationImportance": 5
+  },
+  {
+    "title": "HÁDANKÁŘSKÉ SLAVNOSTI",
+    "description": "Mariánskolázeňské hádankářské slavnosti",
+    "date": "7.6.2025",
+    "location": "ZŠ Mariánské Lázně Úšovice, Školní náměstí...",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZÁMECKÉ SLAVNOSTI NA ZÁMKU KYNŽVART",
+    "description": "Zámecká slavnost s řemeslným jarmarkem a dalším zábavným…",
+    "date": "7.6.2025",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "VĚCI NA VYHOZENÍ",
+    "description": "Výstava obrazů a grafik výtvarnice Bohdany Holubcové",
+    "date": "7.6.2025 - 4.7.2025",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "VÍKEND OTEVŘENÝCH ZAHRAD NA ZÁMKU KYNŽVART",
+    "description": "Svátek otevírání běžně nepřístupných zahrad veřejnosti (Open …",
+    "date": "7.6.2025 - 8.6.2025",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "NARUBY, ZÁVĚREČNÁ VÝSTAVA VÝTVARNÉHO OBORU ZUŠ Š…",
+    "description": "Výstava prací žáků",
+    "date": "7.6.2025 - 22.6.2025",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "FARMÁŘSKÉ TRHY",
+    "description": "Farmářské trhy v Mariánských Lázních",
+    "date": "7.6.2025 od 09:00 hod",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO STOPÁCH SPISOVATELŮ ANEB MARIÁNSKOLÁZEŇSKÁ M…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "7.6.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "SLAVNOSTNÍ ODHALENÍ NOVÉHO ŘEZBÁŘSKÉHO DÍLA V SO…",
+    "description": "Ing. Lukáše Duchoně",
+    "date": "7.6.2025 od 17:00 hod",
+    "location": "Hotel Krakonoš, Mariánské Lázně 660",
+    "locationImportance": 5
+  },
+  {
+    "title": "NUDNÁ KONFERENCE: JEDINÁ KONFERENCE, KTERÁ POPÍR…",
+    "description": "Originální formát stand-up komiky, která má charakter parod…",
+    "date": "7.6.2025 od 19:30 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "BESEDA S PATRONY NOVÉHO ŘEZBÁŘSKÉHO DÍLA ING. LUK…",
+    "description": "Tradiční beseda v kongresovém sále",
+    "date": "7.6.2025 od 19:30 hod",
+    "location": "Hotel Krakonoš, Mariánské Lázně 660",
+    "locationImportance": 5
+  },
+  {
+    "title": "1000 A JEDNA NOC",
+    "description": "Divadlo Navětvi",
+    "date": "8.6.2025 od 15:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "PODIVNÁ PANÍ SAVAGEOVÁ",
+    "description": "Divadlo lidové tvorby Mariánské Lázně, režie: Petr Hála",
+    "date": "10.6.2025 od 19:30 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "MARIENBAD FILM FESTIVAL 2025",
+    "description": "10. ročník Marienbad Film Festivalu",
+    "date": "12.6.2025 - 15.6.2025",
+    "location": ",",
+    "locationImportance": 5
+  },
+  {
+    "title": "KRÁLOVSKÁ PROHLÍDKA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "12.6.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "STŘEDNÍ EVROPA A MOCENSKÉ USPOŘÁDÁNÍ NA KONTINEN…",
+    "description": "Sympozium k 130. výročí úmrtí diplomata a politika Richarda…",
+    "date": "14.6.2025",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "HLEĎSEBSKÝ FESŤÁK",
+    "description": "3. ročník hudebního festivalu lokálních souborů",
+    "date": "14.6.2025",
+    "location": "Velká Hleďsebe, 353 01 Velká...",
+    "locationImportance": 5
+  },
+  {
+    "title": "FARMÁŘSKÉ TRHY",
+    "description": "Farmářské trhy v Mariánských Lázních",
+    "date": "14.6.2025 od 09:00 hod",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "LETNÍ SLUNOVRAT 2025 NA VRCHU KRAKONOŠ",
+    "description": "Tradiční přátelské posezení u hudby nejen k poslechu, ale i k t…",
+    "date": "14.6.2025 od 14:30 hod",
+    "location": "Hotel Krakonoš, Mariánské Lázně 660",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "14.6.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "PROHLÍDKA CENTRA MĚSTA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "14.6.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "VÁŠNIVOST, THRILLER",
+    "description": "Divadlo Verze Praha, režie: Thomas Zielinski",
+    "date": "18.6.2025 od 19:30 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "FESTIVAL KNIŽNÍ LÁZNĚ LETOS S RADKOU DENEMARKOVOU…",
+    "description": "Přehlídka současné knižní kultury pečující o duševní zdraví ná…",
+    "date": "19.6.2025 - 22.6.2025",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "DENDROLOGICKÁ PROHLÍDKA ANEB CO SÁZEL JEŠTĚ SKAL…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "19.6.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROGRAM NA ZÁCHRANU MUŽŮ",
+    "description": "romantická komedie ze sexuologické laboratoře, autogramiád…",
+    "date": "19.6.2025 od 19:30 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "JAZZOVÉ LÁZNĚ 2025",
+    "description": "24. ročník jazzového festivalu v Mariánských Lázních",
+    "date": "20.6.2025 - 26.6.2025",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "BOOGER",
+    "description": "Zahájení festivalu Jazzových lázní",
+    "date": "20.6.2025 od 20:00 hod",
+    "location": "Nádvoří Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "ROBOT ORIENTIERUNG",
+    "description": "Závody robotů v prostředí zámeckého areálu",
+    "date": "21.6.2025",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "FARMÁŘSKÉ TRHY",
+    "description": "Farmářské trhy v Mariánských Lázních",
+    "date": "21.6.2025 od 09:00 hod",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO STOPÁCH SPISOVATELŮ ANEB MARIÁNSKOLÁZEŇSKÁ M…",
+    "description": "Mimořádná prohlídka v rámci festivalu Knižní lázně",
+    "date": "21.6.2025 od 10:00 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "MEZI NEBEM A ZEMÍ",
+    "description": "Akce Mezi nebem a zemí je určena široké veřejnosti",
+    "date": "21.6.2025 od 13:00 hod",
+    "location": "Velká Hleďsebe, 353 01 Velká...",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZABELOV GROUP",
+    "description": "Koncert v rámci festivalu Jazzové lázně",
+    "date": "21.6.2025 od 15:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KDYBY TISÍC KLARINETŮ - MUZIKÁL NA ZÁMKU KYNŽVART",
+    "description": "Legendární hudební komedie o tom, že ve válce múzy mlčí, po…",
+    "date": "21.6.2025 od 20:00 hod",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "HAMELIKA TŘIKRÁT JINAK 2025",
+    "description": "Běh do vrchu v sérii ROZHLEDNY V POHYBU",
+    "date": "22.6.2025 od 09:15 hod",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO STOPÁCH SPISOVATELŮ ANEB MARIÁNSKOLÁZEŇSKÁ M…",
+    "description": "Mimořádná prohlídka v rámci festivalu Knižní lázně",
+    "date": "22.6.2025 od 10:00 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "THE DIXIE HOT LICKS",
+    "description": "Koncert v rámci festivalu Jazzové lázně",
+    "date": "22.6.2025 od 15:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "LIBOR ŠMOLDAS ORGAN TRIO",
+    "description": "Koncert v rámci festivalu Jazzové lázně",
+    "date": "23.6.2025 od 15:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "PROHLÍDKA MĚSTSKÉHO DIVADLA S PRŮVODCEM",
+    "description": "Divadlo z jiné strany...",
+    "date": "24.6.2025 od 14:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "SWING MELODY",
+    "description": "Jazzové lázně, koncert",
+    "date": "24.6.2025 od 19:30 hod",
+    "location": "Nádvoří Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "JAZZ CAKES",
+    "description": "Koncert v rámci festivalu Jazzové lázně",
+    "date": "25.6.2025 od 15:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "GALAVEČER OPERETNÍCH MELODIÍ A EVERGREENŮ",
+    "description": "Hraje Komorní soubor Nálady Petra Macka se sólisty.",
+    "date": "25.6.2025 od 19:30 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROHLÍDKA MĚSTA ANEB SÍLA PŘÍRODNÍCH LÉČIVÝCH ZDR…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "26.6.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "MARIÁNKY V POHYBU: PŘÍBĚH SPORTU",
+    "description": "Vernisáž historických fotografií a předmětů jako oslava titulu …",
+    "date": "26.6.2025 od 17:00 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "V ZÁVĚJI",
+    "description": "Komorní divadlo Kalich Praha, režie: Jakub Nvota, překlad: Pa…",
+    "date": "26.6.2025 od 19:30 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "DUO HRUBÝ VIKLICKÝ",
+    "description": "Závěrečný koncert festival Jazzové Lázně",
+    "date": "26.6.2025 od 19:30 hod",
+    "location": "Hudební síň Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "MARIÁNKY V POHYBU: PŘÍBĚH SPORTU",
+    "description": "Výstava historických fotografií a předmětů jako oslava titulu E…",
+    "date": "27.6.2025 - 30.9.2025",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "KOUZELNÁ AKTOVKA",
+    "description": "pohádka loutkáře Jana Kindla pro děti od 3 let",
+    "date": "27.6.2025 od 10:00 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "STRAŠIDLO CANTERVILLSKÉ NA ZÁMKU KYNŽVART",
+    "description": "Divadelní komedie na nádvoří zámku",
+    "date": "28.6.2025",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "FARMÁŘSKÉ TRHY",
+    "description": "Farmářské trhy v Mariánských Lázních",
+    "date": "28.6.2025 od 09:00 hod",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "28.6.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "PO STOPÁCH SLAVNÝCH NÁVŠTĚVNÍKŮ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "28.6.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "30.6.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "VĚDECKÉ RATOLESTI VČESKÝCH KNIHOVNÁCH",
+    "description": "Výstava - Prezentace vědeckých knih a knih z knihoven renesan…",
+    "date": "1.7.2025 - 31.8.2025",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "1.7.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "MISTROVSTVÍ SVĚTA MLÁDEŽE V RADIOVÉM ORIENTAČNÍM B…",
+    "description": "MS mládeže v ROB 2025",
+    "date": "2.7.2025 - 6.7.2025",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "2.7.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "3.7.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "PO PRAMENECH",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "3.7.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "4.7.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "TALKSHOW 7 PÁDŮ HONZY DĚDKA",
+    "description": "Talkshow vedená novinářem Honzou Dědkem, specializující s…",
+    "date": "5.7.2025",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROHLÍDKA KYNŽVARTSKÉHO ZÁMECKÉHO PARKU S LENK…",
+    "description": "Netradiční prohlídka",
+    "date": "5.7.2025",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROHLÍDKA MĚSTA ANEB SÍLA PŘÍRODNÍCH LÉČIVÝCH ZDR…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "5.7.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO STOPÁCH SPISOVATELŮ ANEB MARIÁNSKOLÁZEŇSKÁ M…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "10.7.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROHLÍDKA CENTRA MĚSTA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "12.7.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "S-RACE",
+    "description": "3.ročník překážkového závodu",
+    "date": "13.7.2025",
+    "location": "Kolonáda Ferdinandova pramene,Anglická",
+    "locationImportance": 80
+  },
+  {
+    "title": "KRÁLOVSKÁ PROHLÍDKA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "17.7.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "CRAFT BEER FESTIVAL 2025",
+    "description": "Přijďte ochutnat to nejlepší z českého řemeslného pivovarnictv…",
+    "date": "19.7.2025 od 12:00 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "SLAVNÁ MILOSTNÁ SETKÁNÍ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "19.7.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "21.7.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "22.7.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "23.7.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "ZAŠLÁ SLÁVA ODBORÁŘSKÉ REKREACE ANEB LÁZNĚ PATŘÍ P…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "24.7.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "DENDROLOGICKÁ PROHLÍDKA ANEB CO SÁZEL JEŠTĚ SKAL…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "26.7.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "28.7.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "29.7.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "HISTORIE ŽIDOVSKÉ KOMUNITY V MARIÁNSKÝCH LÁZNÍCH",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "31.7.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "APEROL SPRITZ FESTIVAL 2025",
+    "description": "Těšit se můžete na celosvětově oblíbený drink Aperol Spritz, a…",
+    "date": "2.8.2025 od 12:00 hod",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "PROHLÍDKA CENTRA MĚSTA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "2.8.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "4.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "5.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "PO PRAMENECH",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "7.8.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "9.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "PO STOPÁCH SLAVNÝCH NÁVŠTĚVNÍKŮ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "9.8.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "11.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "12.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "MEZINÁRODNÍ KLAVÍRNÍ SOUTĚŽ F. CHOPINA V MARIÁNSKÝ…",
+    "description": "14. ročník klavírní soutěže",
+    "date": "13.8.2025 - 15.8.2025",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "MEZINÁRODNÍ KLAVÍRNÍ SOUTĚŽ F. CHOPINA V MARIÁNSKÝ…",
+    "description": "14. ročník klavírní soutěže",
+    "date": "13.8.2025 od 08:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "MEZINÁRODNÍ KLAVÍRNÍ SOUTĚŽ F. CHOPINA V MARIÁNSKÝ…",
+    "description": "14. ročník klavírní soutěže",
+    "date": "14.8.2025 od 08:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "SLAVNÁ MILOSTNÁ SETKÁNÍ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "14.8.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "MEZINÁRODNÍ KLAVÍRNÍ SOUTĚŽ F. CHOPINA V MARIÁNSKÝ…",
+    "description": "14. ročník klavírní soutěže",
+    "date": "15.8.2025 od 08:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "KONCERT VÍTĚZŮ MEZINÁRODNÍ KLAVÍRNÍ SOUTĚŽE F. CHO…",
+    "description": "14. ročník klavírní soutěže",
+    "date": "15.8.2025 od 20:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "CHOPINŮV FESTIVAL",
+    "description": "66. ročník hudebního festivalu",
+    "date": "16.8.2025 - 23.8.2025",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "KUDY KRÁČEL ANGLICKÝ KRÁL EDWARD VII.",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "16.8.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "SLAVNOSTNÍ ZAHAJOVACÍ KONCERT",
+    "description": "Slavnostní zahajovací koncert 66. ročníku Chopinova festivalu",
+    "date": "16.8.2025 od 19:30 hod",
+    "location": "Společenský dům Casino, Reitenbergerova 95/4",
+    "locationImportance": 5
+  },
+  {
+    "title": "KLAVÍRNÍ RECITÁL",
+    "description": "Vítěz Mezinárodní klavírní soutěže F. Chopina v Hannoveru Ma…",
+    "date": "17.8.2025 od 20:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "LENOŠKA IVA ŠMOLDASE",
+    "description": "Veřejné natáčení Českého rozhlasu 2",
+    "date": "18.8.2025 od 15:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "18.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KLAVÍRNÍ RECITÁL",
+    "description": "Klavírní recitál v Městském divadle",
+    "date": "18.8.2025 od 20:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "FRYDERYK CHOPIN A KORUNOVANÉ HLAVY",
+    "description": "Přednáška doc. MUDr. Richarda Urbánka, CSc.",
+    "date": "19.8.2025 od 15:00 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "19.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOMORNÍ KONCERT",
+    "description": "Komorní koncert v klášteře Teplá",
+    "date": "19.8.2025 od 20:00 hod",
+    "location": "Klášter Teplá, Teplá 1, 364 61...",
+    "locationImportance": 5
+  },
+  {
+    "title": "KONCERT ÚČASTNÍKŮ MEZINÁRODNÍCH KLAVÍRNÍCH KURZŮ",
+    "description": "F. Chopin – výběr z díla",
+    "date": "20.8.2025 od 15:00 hod",
+    "location": "Hudební síň Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "GRATULAČNÍ KONCERT IVANA KLÁNSKÉHO",
+    "description": "Koncert ve Společenském domě Casino",
+    "date": "20.8.2025 od 20:00 hod",
+    "location": "Společenský dům Casino, Reitenbergerova 95/4",
+    "locationImportance": 5
+  },
+  {
+    "title": "PŘEDNÁŠKA ZDEŇKA BEDNÁŘE",
+    "description": "Přednáška (téma upřesníme)",
+    "date": "21.8.2025 od 15:00 hod",
+    "location": "Malá scéna Domu Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  },
+  {
+    "title": "ZAŠLÁ SLÁVA ODBORÁŘSKÉ REKREACE ANEB LÁZNĚ PATŘÍ P…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "21.8.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KLAVÍRNÍ RECITÁL",
+    "description": "Klavírní recitál v Městském divadle",
+    "date": "21.8.2025 od 20:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOMORNÍ KONCERT",
+    "description": "Koncert na zámku Kynžvart",
+    "date": "22.8.2025 od 18:00 hod",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOMORNÍ KONCERT",
+    "description": "Koncert na zámku Kynžvart",
+    "date": "22.8.2025 od 20:30 hod",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "FESTIVAL VÍNA MARIÁNSKÉ LÁZNĚ 2025",
+    "description": "Ponořte se do světa vynikajících vín, lahodného street foodu a…",
+    "date": "23.8.2025 - 24.8.2025",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOMORNÍ KONCERT",
+    "description": "Koncert v Evangelickém kostele",
+    "date": "23.8.2025 od 10:30 hod",
+    "location": "Evangelický kostel,Mírové náměstí 90/7",
+    "locationImportance": 5
+  },
+  {
+    "title": "DENDROLOGICKÁ PROHLÍDKA ANEB CO SÁZEL JEŠTĚ SKAL…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "23.8.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "SLAVNOSTNÍ ZÁVĚREČNÝ KONCERT",
+    "description": "Slavnostní závěrečný koncert 66. ročníku Chopinova festivalu",
+    "date": "23.8.2025 od 19:30 hod",
+    "location": "Společenský dům Casino, Reitenbergerova 95/4",
+    "locationImportance": 5
+  },
+  {
+    "title": "VALSKÝ POHÁREK - POZNEJ NEJBLIŽŠÍ OKOLÍ",
+    "description": "XXVI. ročník turistické akce",
+    "date": "24.8.2025 od 10:00 hod",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "25.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "26.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "27.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "28.8.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "PROHLÍDKA MĚSTA ANEB SÍLA PŘÍRODNÍCH LÉČIVÝCH ZDR…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "28.8.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "HRADOZÁMECKÁ NOC NA ZÁMKU KYNŽVART",
+    "description": "Zažijte neopakovatelný kouzelný večer v romantickém prostře…",
+    "date": "30.8.2025",
+    "location": "zámek Kynžvart, 354 91 Lázně...",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO STOPÁCH SPISOVATELŮ ANEB MARIÁNSKOLÁZEŇSKÁ M…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "30.8.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KRÁLOVSKÁ PROHLÍDKA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "4.9.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KOLONÁDNÍ KONCERT",
+    "description": "Kolonádní koncert Západočeského symfonického orchestru",
+    "date": "6.9.2025 od 15:15 hod",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "PROHLÍDKA CENTRA MĚSTA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "6.9.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "TAJEMSTVÍ SMRTI THEODORA LESSINGA",
+    "description": "Speciální tematická komentovaná prohlídka věnovaná oslavám…",
+    "date": "11.9.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "LÁZEŇSKÝ POHÁREK DOBRÉHO MOKU",
+    "description": "Víkendový jarmark na kolonádě",
+    "date": "13.9.2025 - 14.9.2025",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "PROHLÍDKA MĚSTA ANEB SÍLA PŘÍRODNÍCH LÉČIVÝCH ZDR…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "13.9.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "MARIÁNSKÝ PODZIM 2025",
+    "description": "Mezinárodní folklorní festival",
+    "date": "18.9.2025 - 21.9.2025",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "DENDROLOGICKÁ PROHLÍDKA ANEB CO SÁZEL JEŠTĚ SKAL…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "18.9.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "BOŽSKÝ JOHANN WOLFGANG GOETHE",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "20.9.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "ROZLOUČENÍ S LÉTEM",
+    "description": "Přijďte si užít odpoledne plné příjemné hudby",
+    "date": "20.9.2025 od 14:00 hod",
+    "location": "Hotel Krakonoš, Mariánské Lázně 660",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZAŠLÁ SLÁVA ODBORÁŘSKÉ REKREACE ANEB LÁZNĚ PATŘÍ P…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "25.9.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO STOPÁCH SLAVNÝCH NÁVŠTĚVNÍKŮ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "27.9.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "TALK SHOW MARTINA PÍSAŘÍKA, IVANY JIREŠOVÉ A ROMAN…",
+    "description": "1. 10. 2025 od 19:00 v Kulturním domě Marion.",
+    "date": "1.10.2025 od 19:00 hod",
+    "location": "Velká Hleďsebe, 353 01 Velká...",
+    "locationImportance": 5
+  },
+  {
+    "title": "SLAVNÁ MILOSTNÁ SETKÁNÍ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "2.10.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "SMOLÍKOVA CESTA 66",
+    "description": "JAKUB SMOLÍK",
+    "date": "5.10.2025 od 19:00 hod",
+    "location": "Městské divadlo, Třebízského 106",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZAŠLÁ SLÁVA ODBORÁŘSKÉ REKREACE ANEB LÁZNĚ PATŘÍ P…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "9.10.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO STOPÁCH SPISOVATELŮ ANEB MARIÁNSKOLÁZEŇSKÁ M…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "11.10.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO PRAMENECH",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "16.10.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "DENDROLOGICKÁ PROHLÍDKA ANEB CO SÁZEL JEŠTĚ SKAL…",
+    "description": "Speciální tematická komentovaná prohlídka věnovaná oslavám…",
+    "date": "18.10.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO STOPÁCH SLAVNÝCH NÁVŠTĚVNÍKŮ",
+    "description": "Speciální tematická komentovaná prohlídka věnovaná 31. výro…",
+    "date": "23.10.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROHLÍDKA CENTRA MĚSTA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "25.10.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "DUŠIČKOVÁ PROHLÍDKA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "30.10.2025 od 15:00 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "SLAVNÁ MILOSTNÁ SETKÁNÍ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "1.11.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "HISTORIE ŽIDOVSKÉ KOMUNITY V MARIÁNSKÝCH LÁZNÍCH",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "6.11.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROHLÍDKA MĚSTA ANEB SÍLA PŘÍRODNÍCH LÉČIVÝCH ZDR…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "8.11.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "KRÁLOVSKÁ PROHLÍDKA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "13.11.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO STOPÁCH SLAVNÝCH NÁVŠTĚVNÍKŮ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "15.11.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PO PRAMENECH",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "20.11.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROHLÍDKA CENTRA MĚSTA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "22.11.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "ARCHITEKTURA V PRŮBĚHU STOLETÍ ANEB CO NÁM ZBYLO…",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "27.11.2025 od 14:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "1. ADVENTNÍ PROHLÍDKA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "29.11.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "SLAVNÁ MILOSTNÁ SETKÁNÍ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "4.12.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "2. ADVENTNÍ PROHLÍDKA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "6.12.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZPÍVÁNÍ KOLED U BETLÉMU",
+    "description": "Patnáctý ročník akce Česko zpívá koledy",
+    "date": "10.12.2025 od 17:45 hod",
+    "location": "Hotel Krakonoš, Mariánské Lázně 660",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROHLÍDKA CENTRA MĚSTA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "11.12.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "3. ADVENTNÍ PROHLÍDKA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "13.12.2025 od 13:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "PROHLÍDKA CENTRA MĚSTA",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "18.12.2025 od 15:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "NADÍLKA U KRÁLE SMRKŮ",
+    "description": "Tradiční turistická akce",
+    "date": "20.12.2025",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "4. ADVENTNÍ PROHLÍDKA S NADÍLKOU U KRÁLE SMRKŮ",
+    "description": "Tematická komentovaná prohlídka",
+    "date": "20.12.2025 od 12:30 hod",
+    "location": "Infocentrum, Hlavní 47/28",
+    "locationImportance": 5
+  },
+  {
+    "title": "ŽIVÝ BETLÉM",
+    "description": "Přijďte se rozloučit s Vánocemi, zazpívat si koledy a prožít Kris…",
+    "date": "4.1.2026 od 15:00 hod",
+    "location": "Evangelický kostel,Mírové náměstí 90/7",
+    "locationImportance": 5
+  },
+  {
+    "title": "VELIKONOČNÍ JARMARK NA LÁZEŇSKÉ KOLONÁDĚ",
+    "description": "aneb návrat k tradicím",
+    "date": "18.4.2026 - 20.4.2026",
+    "location": "Kolonáda Mariánské Lázně,Masarykova",
+    "locationImportance": 80
+  },
+  {
+    "title": "CHOPINŮV FESTIVAL",
+    "description": "66. ročník hudebního festivalu",
+    "date": "16.8.2026 - 23.8.2026",
+    "location": "OSLAVY OSVOBOZENÍ - 80. VÝROČÍ",
+    "locationImportance": 5
+  },
+  {
+    "title": "Vzpomínková akce",
+    "description": "",
+    "date": "8.5.2025 od 16:00 hod",
+    "location": "Skalníkovy sady, Mariánské Lázně",
+    "locationImportance": 5
+  },
+  {
+    "title": "CHOPINŮV FESTIVAL",
+    "description": "66. ročník hudebního festivalu",
+    "date": "16.8.2026 - 23.8.2026",
+    "location": "Mariánské Lázně, 35301",
+    "locationImportance": 5
+  },
+  {
+    "title": "ZVÝHODNĚNÁ VSTUPENKA DO PAMÁTNÍKU FR. CHOPINA A …",
+    "description": "Jedinečná možnost navštívit nově renovovaný Dům Chopin",
+    "date": "1.1.2025 - 31.12.2025",
+    "location": "Dům Chopin, Hlavní 47/28",
+    "locationImportance": 50
+  }
+]

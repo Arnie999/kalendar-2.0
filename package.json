@@ -1,0 +1,13 @@
+{
+  "name": "kalendar-francie-v2",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Monorepo for Edward-Kalendář v2",
+  "scripts": {
+    "convert-shifts": "node scripts/convert-shifts.js",
+    "dev": "pnpm --filter @edward-kalendar/web dev",
+    "build": "pnpm --filter @edward-kalendar/web build",
+    "start": "pnpm --filter @edward-kalendar/web start"
+  },
+  "packageManager": "pnpm@10.0.0"
+} 
